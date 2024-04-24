@@ -6,6 +6,9 @@
 - Arquitetura: MVC (Model-View-Controller)
 - Ferramenta de Diagramação: Draw.io
 
+#Imagem do template:
+<img src="URL_da_Imagem" alt="Texto Alternativo">
+
 # Modelos (Models):
 ## Admin
 O elemento Admin se refere ao administrador do projeto. Esse tipo de usuário tem acesso aos dados coletados pela solução web e possui autorização para editar o formulário, alterar informações da landing page, excluir e adicionar usuários, entre outras funções administrativas.
