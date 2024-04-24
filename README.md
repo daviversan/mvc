@@ -6,8 +6,8 @@
 - Arquitetura: MVC (Model-View-Controller)
 - Ferramenta de Diagramação: Draw.io
 
-#Imagem do template:
-<img src="URL_da_Imagem" alt="Texto Alternativo">
+# Imagem do template:
+<img src="https://github.com/theVersan/mvc/blob/main/new_mvc.2drawio.png" alt="Texto Alternativo">
 
 # Modelos (Models):
 ## Admin
